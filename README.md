@@ -1,4 +1,4 @@
 # hello-world
 GitHub tutorial
 
-Whuddup peeps?  This is my first edit!
+The quick brown fox jumped over the lazy dog.
